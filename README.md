@@ -1,4 +1,4 @@
-# HealthPlus
+# HealthCare-Hub
 A Management System for a Health Care Facility
 ## The system includes: 
   - Registration of patients
