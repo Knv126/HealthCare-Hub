@@ -1,0 +1,2 @@
+Admin.ReportsController
+Admin.ReportsController$1
